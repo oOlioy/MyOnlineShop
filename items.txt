@@ -1,0 +1,8 @@
+bread 22
+milk 30
+apple 10
+cheese 50
+eggs 72
+meat 98
+chips 43
+tomato 21

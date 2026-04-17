@@ -1,0 +1,13 @@
+========== RECEIPT ==========
+Date: 2026-04-17
+Status: Completed
+Payment: Card online
+Paid: Yes
+-----------------------------
+cheese | 50 x 1 = 50
+bread | 22 x 3 = 66
+-----------------------------
+Subtotal: 116
+Discount: 10%
+Total: 104.4
+=============================
